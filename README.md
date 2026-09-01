@@ -24,12 +24,12 @@ hiçbir veri cihazdan çıkmaz.
 
 | Giriş | Kiler | Eşleşme |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/01-giris.png" width="240" alt="Giriş ekranı"> | <img src="docs/screenshots/03-kiler.png" width="240" alt="Kiler — seçili malzemeler"> | <img src="docs/screenshots/04-eslesme.png" width="240" alt="Eşleşme sonuçları"> |
+|  |  |  |
 | Hesap aç, giriş yap ya da<br>hesapsız devam et | 432 malzeme, 5 grup,<br>Türkçe duyarsız arama | Eksik sayısına göre<br>gruplanmış sonuçlar |
 
 | Tarif detayı | Tüm tarifler | Filtreler |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/06-tarif.png" width="240" alt="Tarif detayı"> | <img src="docs/screenshots/07-katalog.png" width="240" alt="Tüm tarifler katalogu"> | <img src="docs/screenshots/05-filtreler.png" width="240" alt="Filtreler"> |
+|  | |  |
 | ✓ elinde / ! eksik / + opsiyonel<br>işaretli malzeme listesi | 18 mutfak, öğün türüne göre<br>ayrılmış katalog | Hızlı filtre, eksik toleransı,<br>temel malzeme anahtarı |
 
 </div>
