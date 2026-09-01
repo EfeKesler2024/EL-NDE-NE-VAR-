@@ -12,15 +12,7 @@ hiçbir veri cihazdan çıkmaz.
 
 <br>
 
-<img src="docs/badges/platform.png" alt="Platform: Android 6.0+" height="30">
-<img src="docs/badges/tarif.png" alt="Tarif: 1.592" height="30">
-<img src="docs/badges/malzeme.png" alt="Malzeme: 432" height="30">
-<img src="docs/badges/apk.png" alt="APK: 616 KB" height="30">
 
-<img src="docs/badges/cevrimdisi.png" alt="Çevrimdışı: %100" height="21">
-<img src="docs/badges/izin.png" alt="Android izni: hiçbiri" height="21">
-<img src="docs/badges/bagimlilik.png" alt="npm bağımlılığı: 0" height="21">
-<img src="docs/badges/lisans.png" alt="Lisans: MIT" height="21">
 
 </div>
 
