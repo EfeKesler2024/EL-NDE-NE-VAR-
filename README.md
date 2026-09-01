@@ -12,15 +12,15 @@ hiçbir veri cihazdan çıkmaz.
 
 <br>
 
-< "Platform: Android 6.0+" height="30">
-< "Tarif: 1.592" height="30">
-< "Malzeme: 432" height="30">
-< "APK: 616 KB" height="30">
+< "Platform: Android 6.0+"">
+< "Tarif: 1.592" >
+< "Malzeme: 432" >
+< "APK: 616 KB" >
 
-< "Çevrimdışı: %100" height="21">
-< "Android izni: hiçbiri" height="21">
-<" "npm bağımlılığı: 0" height="21">
-< "Lisans: MIT" height="21">
+< "Çevrimdışı: %100">
+< "Android izni: hiçbiri" >
+<" "npm bağımlılığı: 0" >
+< "Lisans: MIT" >
 
 
 </div>
