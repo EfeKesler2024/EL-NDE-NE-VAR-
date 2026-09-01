@@ -18,7 +18,7 @@ hiçbir veri cihazdan çıkmaz.
 
 ---
 
-## 📱 Ekran görüntüleri
+
 
 <div align="center">
 
