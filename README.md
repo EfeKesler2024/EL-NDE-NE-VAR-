@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/icon.png" width="104" alt="Elinde Ne Var? logo">
+
 
 # Elinde Ne Var?
 
