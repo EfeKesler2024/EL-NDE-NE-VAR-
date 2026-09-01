@@ -12,6 +12,15 @@ hiçbir veri cihazdan çıkmaz.
 
 <br>
 
+< alt="Platform: Android 6.0+" height="30">
+< alt="Tarif: 1.592" height="30">
+< alt="Malzeme: 432" height="30">
+< alt="APK: 616 KB" height="30">
+
+< alt="Çevrimdışı: %100" height="21">
+< alt="Android izni: hiçbiri" height="21">
+<" alt="npm bağımlılığı: 0" height="21">
+< alt="Lisans: MIT" height="21">
 
 
 </div>
