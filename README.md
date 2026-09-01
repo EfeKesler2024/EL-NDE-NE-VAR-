@@ -12,15 +12,15 @@ hiçbir veri cihazdan çıkmaz.
 
 <br>
 
-![Platform](https://img.shields.io/badge/Platform-Android%206.0%2B-4FD6AC?style=for-the-badge&logoColor=white&labelColor=111815)
-![Tarif](https://img.shields.io/badge/Tarif-1.592-4FD6AC?style=for-the-badge&labelColor=111815)
-![Malzeme](https://img.shields.io/badge/Malzeme-432-4FD6AC?style=for-the-badge&labelColor=111815)
-![Boyut](https://img.shields.io/badge/APK-616%20KB-4FD6AC?style=for-the-badge&labelColor=111815)
+<img src="docs/badges/platform.png" alt="Platform: Android 6.0+" height="30">
+<img src="docs/badges/tarif.png" alt="Tarif: 1.592" height="30">
+<img src="docs/badges/malzeme.png" alt="Malzeme: 432" height="30">
+<img src="docs/badges/apk.png" alt="APK: 616 KB" height="30">
 
-![Offline](https://img.shields.io/badge/%C3%87evrimd%C4%B1%C5%9F%C4%B1-%100-E9B369?style=flat-square&labelColor=111815)
-![İzin](https://img.shields.io/badge/Android%20izni-hi%C3%A7biri-E9B369?style=flat-square&labelColor=111815)
-![Bağımlılık](https://img.shields.io/badge/npm%20ba%C4%9F%C4%B1ml%C4%B1l%C4%B1%C4%9F%C4%B1-0-E9B369?style=flat-square&labelColor=111815)
-![Lisans](https://img.shields.io/badge/Lisans-MIT-9DB0A5?style=flat-square&labelColor=111815)
+<img src="docs/badges/cevrimdisi.png" alt="Çevrimdışı: %100" height="21">
+<img src="docs/badges/izin.png" alt="Android izni: hiçbiri" height="21">
+<img src="docs/badges/bagimlilik.png" alt="npm bağımlılığı: 0" height="21">
+<img src="docs/badges/lisans.png" alt="Lisans: MIT" height="21">
 
 </div>
 
@@ -32,12 +32,12 @@ hiçbir veri cihazdan çıkmaz.
 
 | Giriş | Kiler | Eşleşme |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/01-giris.png" width="240"> | <img src="docs/screenshots/03-kiler.png" width="240"> | <img src="docs/screenshots/04-eslesme.png" width="240"> |
+| <img src="docs/screenshots/01-giris.png" width="240" alt="Giriş ekranı"> | <img src="docs/screenshots/03-kiler.png" width="240" alt="Kiler — seçili malzemeler"> | <img src="docs/screenshots/04-eslesme.png" width="240" alt="Eşleşme sonuçları"> |
 | Hesap aç, giriş yap ya da<br>hesapsız devam et | 432 malzeme, 5 grup,<br>Türkçe duyarsız arama | Eksik sayısına göre<br>gruplanmış sonuçlar |
 
 | Tarif detayı | Tüm tarifler | Filtreler |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/06-tarif.png" width="240"> | <img src="docs/screenshots/07-katalog.png" width="240"> | <img src="docs/screenshots/05-filtreler.png" width="240"> |
+| <img src="docs/screenshots/06-tarif.png" width="240" alt="Tarif detayı"> | <img src="docs/screenshots/07-katalog.png" width="240" alt="Tüm tarifler katalogu"> | <img src="docs/screenshots/05-filtreler.png" width="240" alt="Filtreler"> |
 | ✓ elinde / ! eksik / + opsiyonel<br>işaretli malzeme listesi | 18 mutfak, öğün türüne göre<br>ayrılmış katalog | Hızlı filtre, eksik toleransı,<br>temel malzeme anahtarı |
 
 </div>
